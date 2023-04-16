@@ -10,7 +10,7 @@ from tkinter import Button, Label, Tk, ttk, Frame, Entry, END
 import requests
 
 # App ID for Open Exchange Rates
-api_key = '56b5774e71ee42aab3f82bc0b68fe632'
+api_key = '56b5774e71ee42aab3f82bc0b68fe632' #GET YOUR OWN API FROM "https://openexchangerates.org"
 
 
 # ==========================API TO GET ALL AVAILABLE CURRENCIES===============================================
